@@ -1,0 +1,16 @@
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\RxDotNetDemoProject.exe.config
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\RxDotNetDemoProject.exe
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\RxDotNetDemoProject.pdb
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Core.dll
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Interfaces.dll
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Linq.dll
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Core.xml
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Interfaces.xml
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Linq.xml
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\obj\Debug\RxDotNetDemoProject.csprojResolveAssemblyReference.cache
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\obj\Debug\RxDotNetDemoProject.exe
+E:\Entity-framework\RxDotNetDemoProject\RxDotNetDemoProject\obj\Debug\RxDotNetDemoProject.pdb
